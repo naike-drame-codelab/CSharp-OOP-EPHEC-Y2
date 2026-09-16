@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\transport\\transport\\transport\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|solutionrelative:transport\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\transport\\transport\\transport\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|solutionrelative:transport\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\transport\\transport\\transport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|solutionrelative:transport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\transport\\transport\\transport\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|solutionrelative:transport\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\transport\\transport\\transport\\marchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|solutionrelative:transport\\marchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\transport\\transport\\transport\\coloredconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4414880-C3D1-9E79-7A2A-FEEBB1D6317E}|Transport\\Transport.csproj|solutionrelative:transport\\coloredconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\Voiture.cs",
+              "RelativeDocumentMoniker": "Transport\\Voiture.cs",
+              "ToolTip": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\Voiture.cs",
+              "RelativeToolTip": "Transport\\Voiture.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:24:32.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\Personne.cs",
+              "RelativeDocumentMoniker": "Transport\\Personne.cs",
+              "ToolTip": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\Personne.cs",
+              "RelativeToolTip": "Transport\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:23:12.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Marchandise.cs",
+              "DocumentMoniker": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\Marchandise.cs",
+              "RelativeDocumentMoniker": "Transport\\Marchandise.cs",
+              "ToolTip": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\Marchandise.cs",
+              "RelativeToolTip": "Transport\\Marchandise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T15:23:15.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColoredConsole.cs",
+              "DocumentMoniker": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\ColoredConsole.cs",
+              "RelativeDocumentMoniker": "Transport\\ColoredConsole.cs",
+              "ToolTip": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\ColoredConsole.cs",
+              "RelativeToolTip": "Transport\\ColoredConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T15:23:02.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\Camion.cs",
+              "RelativeDocumentMoniker": "Transport\\Camion.cs",
+              "ToolTip": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\Camion.cs",
+              "RelativeToolTip": "Transport\\Camion.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T15:22:53.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\Program.cs",
+              "RelativeDocumentMoniker": "Transport\\Program.cs",
+              "ToolTip": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Transport\\Transport\\Transport\\Program.cs",
+              "RelativeToolTip": "Transport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T15:20:33.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
