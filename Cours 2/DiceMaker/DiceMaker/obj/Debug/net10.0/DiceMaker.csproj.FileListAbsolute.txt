@@ -1,0 +1,16 @@
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\bin\Debug\net10.0\DiceMaker.exe
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\bin\Debug\net10.0\DiceMaker.deps.json
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\bin\Debug\net10.0\DiceMaker.runtimeconfig.json
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\bin\Debug\net10.0\DiceMaker.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\bin\Debug\net10.0\DiceMaker.pdb
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\DiceMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\DiceMaker.AssemblyInfoInputs.cache
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\DiceMaker.AssemblyInfo.cs
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\DiceMaker.csproj.CoreCompileInputs.cache
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\DiceMaker.sourcelink.json
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\DiceMaker.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\refint\DiceMaker.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\DiceMaker.pdb
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\DiceMaker.genruntimeconfig.cache
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\ref\DiceMaker.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 2\DiceMaker\DiceMaker\obj\Debug\net10.0\DiceMaker.csproj.Up2Date
