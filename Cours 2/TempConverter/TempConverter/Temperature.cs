@@ -6,59 +6,103 @@ namespace TempConverter
 {
     class Temperature
     {
-        public float temp;
-        public char unite; 
 
-        public Temperature(float t, char u)
+        // ================ Grand classique des examens : conversion d'unités ================
+
+        //public double temp;
+        //public char unite; 
+
+        //public Temperature(double t, char u)
+        //{
+        //    this.temp = t;
+        //    this.unite = Char.ToUpper(u);
+        //}
+
+        //private double EnCel()
+        //{
+        //    return (temp - 32) * 5.0/9.0;
+        //}
+
+        //private double EnFahr()
+        //{
+        //    return temp * 9.0/5.0 + 32;
+        //}
+
+
+        //public double Convertir()
+        //{
+        //    if (unite == 'C')
+        //    {
+        //        temp = EnFahr();
+        //        unite = 'F';
+        //        return temp;
+        //    }
+        //    else if (unite == 'F')
+        //    {
+        //        temp = EnCel();
+        //        unite = 'C';
+        //        return temp;
+        //    }
+        //    else
+        //    {
+        //        throw new ArgumentException("Unité de température invalide. Utilisez 'C' pour Celsius ou 'F' pour Fahrenheit.");
+        //    }
+        //}
+
+        //public void Chauffage()
+        //{
+        //    double tempEnCel = (unite == 'F') ? EnCel() : temp;
+
+        //    if (temp < 15.0)
+        //    {
+        //        Console.WriteLine("Il fait froid, allumez le chauffage !");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Il fait chaud, éteignez le chauffage !");
+        //    }
+        //}
+
+        // Getters et Setters
+        private double TempInCelsius;
+        private double TempInFahrenheit;
+        public Temperature(double T, char Unité)
         {
-            this.temp = t;
-            this.unite = Char.ToUpper(u);
+            this.TempInCelsius = T;
+            this.TempInFahrenheit = Unité;
         }
 
-        private float EnCel()
+        // Jouent le rôle de getters
+        public double EnCel() // GetCel()
         {
-            return (temp - 32) * 5f/9f;
+            return TempInCelsius;
+        }
+        public double EnFar()
+        {
+            return TempInFahrenheit;
         }
 
-        private float EnFahr()
+        // Fonction qui joue le rôle de setter
+        public double SetTemp(double T, char Unité)
         {
-            return temp * 9f/5f + 32;
-        }
-
-
-        public float Convertir()
-        {
-            if (unite == 'C')
+            if (Unité == 'C')
             {
-                temp = EnFahr();
-                unite = 'F';
-                return temp;
-            }
-            else if (unite == 'F')
-            {
-                temp = EnCel();
-                unite = 'C';
-                return temp;
+                TempInCelsius = T;
+                TempInFahrenheit = T * 9.0 / 5 + 32;
             }
             else
             {
-                throw new ArgumentException("Unité de température invalide. Utilisez 'C' pour Celsius ou 'F' pour Fahrenheit.");
+                TempInFahrenheit = T;
+                TempInCelsius = (T - 32) * 5.0 / 9;
             }
+            return T;
         }
 
-        public void Chauffage()
+        public bool Chauffage()
         {
-
-            float tempEnCel = (unite == 'F') ? EnCel() : temp;
-
-            if (temp < 15)
-            {
-                Console.WriteLine("Il fait froid, allumez le chauffage !");
-            }
-            else
-            {
-                Console.WriteLine("Il fait chaud, éteignez le chauffage !");
-            }
+            if (TempInCelsius < 15.0) return true;
+            else return false;
         }
+
     }
 }

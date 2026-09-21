@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Cours 2\\TempConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EDAAAF5-63B2-4F1C-BD47-CD0EB3798F4B}|TempConverter\\TempConverter.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\cours 2\\tempconverter\\tempconverter\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDAAAF5-63B2-4F1C-BD47-CD0EB3798F4B}|TempConverter\\TempConverter.csproj|solutionrelative:tempconverter\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9A41F1-8D8F-0C4B-10D2-D2EB9D51C4DD}|TempConverter\\TempConverter.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\cours 2\\tempconverter\\tempconverter\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9A41F1-8D8F-0C4B-10D2-D2EB9D51C4DD}|TempConverter\\TempConverter.csproj|solutionrelative:tempconverter\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EDAAAF5-63B2-4F1C-BD47-CD0EB3798F4B}|TempConverter\\TempConverter.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\cours 2\\tempconverter\\tempconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDAAAF5-63B2-4F1C-BD47-CD0EB3798F4B}|TempConverter\\TempConverter.csproj|solutionrelative:tempconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9A41F1-8D8F-0C4B-10D2-D2EB9D51C4DD}|TempConverter\\TempConverter.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\cours 2\\tempconverter\\tempconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9A41F1-8D8F-0C4B-10D2-D2EB9D51C4DD}|TempConverter\\TempConverter.csproj|solutionrelative:tempconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "TempConverter\\Temperature.cs",
               "ToolTip": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Cours 2\\TempConverter\\TempConverter\\Temperature.cs",
               "RelativeToolTip": "TempConverter\\Temperature.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T17:05:33.618Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "TempConverter\\Program.cs",
               "ToolTip": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Cours 2\\TempConverter\\TempConverter\\Program.cs",
               "RelativeToolTip": "TempConverter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T17:04:56.804Z",
               "EditorCaption": ""
