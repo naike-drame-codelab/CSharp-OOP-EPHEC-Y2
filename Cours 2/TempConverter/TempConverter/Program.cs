@@ -8,33 +8,45 @@
 //Console.WriteLine("Température en Fahrenheit : " + temperature2.EnFar() + "° F.");
 //Console.WriteLine("Température en Celsius : " + temperature2.EnCel() + "° C.");
 
-Temperaturev2 temp = new Temperaturev2(20.0, 'C'); 
-Console.WriteLine("=== Test 1 : Création initiale à 20°C ===");
-Console.WriteLine($"Celsius    : {temp.GetCel()} °C");
-Console.WriteLine($"Fahrenheit : {temp.GetFar()} °F");
-Console.WriteLine($"Chauffage requis ? {temp.Chauffage()}"); // Doit afficher False
+//Temperaturev2 temp = new Temperaturev2(20.0, 'C'); 
+//Console.WriteLine("=== Test 1 : Création initiale à 20°C ===");
+//Console.WriteLine($"Celsius    : {temp.GetCel()} °C");
+//Console.WriteLine($"Fahrenheit : {temp.GetFar()} °F");
+//Console.WriteLine($"Chauffage requis ? {temp.Chauffage()}"); // Doit afficher False
 
-Console.WriteLine("\n----------------------------------------\n");
+//Console.WriteLine("\n----------------------------------------\n");
 
-// 2. Modification de la température via le Setter Celsius
-Console.WriteLine("=== Test 2 : Modification avec SetCel(10) ===");
-temp.SetCel(10.0);
+//// 2. Modification de la température via le Setter Celsius
+//Console.WriteLine("=== Test 2 : Modification avec SetCel(10) ===");
+//temp.SetCel(10.0);
 
-// La valeur en Fahrenheit doit s'être mise à jour automatiquement (10°C = 50°F)
-Console.WriteLine($"Celsius    : {temp.GetCel()} °C");
-Console.WriteLine($"Fahrenheit : {temp.GetFar()} °F");
-Console.WriteLine($"Chauffage requis ? {temp.Chauffage()}"); // Doit afficher True (< 15°C)
+//// La valeur en Fahrenheit doit s'être mise à jour automatiquement (10°C = 50°F)
+//Console.WriteLine($"Celsius    : {temp.GetCel()} °C");
+//Console.WriteLine($"Fahrenheit : {temp.GetFar()} °F");
+//Console.WriteLine($"Chauffage requis ? {temp.Chauffage()}"); // Doit afficher True (< 15°C)
 
-Console.WriteLine("\n----------------------------------------\n");
+//Console.WriteLine("\n----------------------------------------\n");
 
-// 3. Modification de la température via le Setter Fahrenheit
-Console.WriteLine("=== Test 3 : Modification avec SetFar(86) ===");
-temp.SetFar(86.0);
+//// 3. Modification de la température via le Setter Fahrenheit
+//Console.WriteLine("=== Test 3 : Modification avec SetFar(86) ===");
+//temp.SetFar(86.0);
 
-// La valeur en Celsius doit s'être mise à jour automatiquement (86°F = 30°C)
-Console.WriteLine($"Celsius    : {temp.GetCel()} °C");
-Console.WriteLine($"Fahrenheit : {temp.GetFar()} °F");
-Console.WriteLine($"Chauffage requis ? {temp.Chauffage()}"); // Doit afficher False
+//// La valeur en Celsius doit s'être mise à jour automatiquement (86°F = 30°C)
+//Console.WriteLine($"Celsius    : {temp.GetCel()} °C");
+//Console.WriteLine($"Fahrenheit : {temp.GetFar()} °F");
+//Console.WriteLine($"Chauffage requis ? {temp.Chauffage()}"); // Doit afficher False
 
-// Empêche la console de se fermer immédiatement
-Console.ReadLine();
+//// Empêche la console de se fermer immédiatement
+//Console.ReadLine();
+
+// ------------------- Exercice sonde ---------------------
+Temperaturev2 tempSonde = new Temperaturev2(-271.0, 'C');
+Console.WriteLine("=== Test 4 : Sondes ===");
+Console.WriteLine($"Celsius : {tempSonde.GetCel()} °C");
+
+while (tempSonde.GetCel() < -50.0)
+{
+     tempSonde.SetFar(tempSonde.GetFar() + 25.0);
+}
+
+Console.WriteLine($"Température finale : {tempSonde.GetCel()} °C");
