@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Cours 3\\SaisieClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8708916-4D35-4781-B46E-6917539A3387}|SaisieClass\\SaisieClass.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\cours 3\\saisieclass\\saisieclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8708916-4D35-4781-B46E-6917539A3387}|SaisieClass\\SaisieClass.csproj|solutionrelative:saisieclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8708916-4D35-4781-B46E-6917539A3387}|SaisieClass\\SaisieClass.csproj|c:\\users\\naike\\repos\\csharp-oop-ephec-y2\\cours 3\\saisieclass\\saisieclass\\saisie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8708916-4D35-4781-B46E-6917539A3387}|SaisieClass\\SaisieClass.csproj|solutionrelative:saisieclass\\saisie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Saisie.cs",
+              "DocumentMoniker": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Cours 3\\SaisieClass\\SaisieClass\\Saisie.cs",
+              "RelativeDocumentMoniker": "SaisieClass\\Saisie.cs",
+              "ToolTip": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Cours 3\\SaisieClass\\SaisieClass\\Saisie.cs",
+              "RelativeToolTip": "SaisieClass\\Saisie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:32:01.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Cours 3\\SaisieClass\\SaisieClass\\Program.cs",
+              "RelativeDocumentMoniker": "SaisieClass\\Program.cs",
+              "ToolTip": "C:\\Users\\naike\\repos\\CSharp-OOP-EPHEC-Y2\\Cours 3\\SaisieClass\\SaisieClass\\Program.cs",
+              "RelativeToolTip": "SaisieClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:31:30.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

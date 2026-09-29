@@ -1,0 +1,16 @@
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\bin\Debug\net10.0\SaisieClass.exe
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\bin\Debug\net10.0\SaisieClass.deps.json
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\bin\Debug\net10.0\SaisieClass.runtimeconfig.json
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\bin\Debug\net10.0\SaisieClass.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\bin\Debug\net10.0\SaisieClass.pdb
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\SaisieClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\SaisieClass.AssemblyInfoInputs.cache
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\SaisieClass.AssemblyInfo.cs
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\SaisieClass.csproj.CoreCompileInputs.cache
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\SaisieClass.sourcelink.json
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\SaisieClass.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\refint\SaisieClass.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\SaisieClass.pdb
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\SaisieClass.genruntimeconfig.cache
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\ref\SaisieClass.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 3\SaisieClass\SaisieClass\obj\Debug\net10.0\SaisieCl.58584C07.Up2Date

@@ -46,7 +46,8 @@ Console.WriteLine($"Celsius : {tempSonde.GetCel()} °C");
 
 while (tempSonde.GetCel() < -50.0)
 {
-     tempSonde.SetFar(tempSonde.GetFar() + 25.0);
+    // Lire la température de la sonde en °F et ajouter 25°F à la température actuelle
+    tempSonde.SetFar(tempSonde.GetFar() + 25.0);
 }
 
 Console.WriteLine($"Température finale : {tempSonde.GetCel()} °C");
