@@ -1,0 +1,16 @@
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\bin\Debug\net10.0\RPGV1.exe
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\bin\Debug\net10.0\RPGV1.deps.json
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\bin\Debug\net10.0\RPGV1.runtimeconfig.json
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\bin\Debug\net10.0\RPGV1.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\bin\Debug\net10.0\RPGV1.pdb
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\RPGV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\RPGV1.AssemblyInfoInputs.cache
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\RPGV1.AssemblyInfo.cs
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\RPGV1.csproj.CoreCompileInputs.cache
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\RPGV1.sourcelink.json
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\RPGV1.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\refint\RPGV1.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\RPGV1.pdb
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\RPGV1.genruntimeconfig.cache
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\ref\RPGV1.dll
+C:\Users\naike\repos\CSharp-OOP-EPHEC-Y2\Cours 4\RPGV1\obj\Debug\net10.0\RPGV1.csproj.Up2Date
