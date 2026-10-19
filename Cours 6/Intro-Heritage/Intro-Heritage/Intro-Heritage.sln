@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro-Heritage", "Intro-Heritage\Intro-Heritage.csproj", "{1F5A8E4A-C4C0-438A-B1F6-39FF62C6BA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5A8E4A-C4C0-438A-B1F6-39FF62C6BA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5A8E4A-C4C0-438A-B1F6-39FF62C6BA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5A8E4A-C4C0-438A-B1F6-39FF62C6BA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5A8E4A-C4C0-438A-B1F6-39FF62C6BA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B596C4A-6E9C-43B5-BBC9-D1006F4AC5CE}
+	EndGlobalSection
+EndGlobal

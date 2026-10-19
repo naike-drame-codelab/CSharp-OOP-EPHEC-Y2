@@ -1,0 +1,7 @@
+C:\Users\naike\Downloads\Intro-Heritage\Intro-Heritage\Intro-Heritage\bin\Debug\Intro-Heritage.exe.config
+C:\Users\naike\Downloads\Intro-Heritage\Intro-Heritage\Intro-Heritage\bin\Debug\Intro-Heritage.exe
+C:\Users\naike\Downloads\Intro-Heritage\Intro-Heritage\Intro-Heritage\bin\Debug\Intro-Heritage.pdb
+C:\Users\naike\Downloads\Intro-Heritage\Intro-Heritage\Intro-Heritage\obj\Debug\Intro-Heritage.csproj.AssemblyReference.cache
+C:\Users\naike\Downloads\Intro-Heritage\Intro-Heritage\Intro-Heritage\obj\Debug\Intro-Heritage.csproj.CoreCompileInputs.cache
+C:\Users\naike\Downloads\Intro-Heritage\Intro-Heritage\Intro-Heritage\obj\Debug\Intro-Heritage.exe
+C:\Users\naike\Downloads\Intro-Heritage\Intro-Heritage\Intro-Heritage\obj\Debug\Intro-Heritage.pdb

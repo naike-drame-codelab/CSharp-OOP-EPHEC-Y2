@@ -6,16 +6,23 @@ namespace RPGv2
 {
     internal class Heros
     {
-        private int _pointsDeVie;
-        private string _nom;
-        private De _deHeros;
-        protected Arme _armeHeros;
+        protected int _pointsDeVie;
+        protected string _nom;
+        protected De _deHeros;
+        private Arme? _armeHeros;
 
         public Heros(string Nom, int PV, Arme a)
         {
             this._nom = Nom;
             this._pointsDeVie = PV;
             this._armeHeros = a;
+            this._deHeros = new De();
+        }
+
+        public Heros(string Nom, int PV)
+        {
+            this._nom = Nom;
+            this._pointsDeVie = PV;
             this._deHeros = new De();
         }
         public bool IsVivant()
@@ -28,8 +35,9 @@ namespace RPGv2
         }
         public string GetNom() { return _nom; }
         public int GetPointsDeVie() { return _pointsDeVie; }
-        public Arme GetArme() { return _armeHeros; }
-        public void Attaquer(Heros p2)
+        public Arme? GetArme() { return _armeHeros; }
+
+        public virtual void Attaquer(Heros p2)
         {
             int degats;
             int bonus = 0;
